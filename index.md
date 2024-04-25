@@ -11,7 +11,7 @@ web scrapping from property finder EG and analysis desktop application.
 
     <img src="https://github.com/Ahmed-Ashraf-Khalil/Property-Plus-Analyzer/assets/59618586/f34d71dd-53bf-4242-bd58-851d1a2883c1">
   
-    <div style="text-align: justify">This project is a wine recommender, based on user tastes, expressed either through other wines, or through description. It is therefore an NLP based machine learning solution. Unsupervised learning was used to clusterise 120K vectorised wine reviews. Using distance computing, nearest wines are found.</div>
+    <div style="text-align: justify">Desktop Application to collect and analyse web scrapped data from Property Finder EG and create pdf report of rent, buy and commertial properties with defining number of pages and a click of a button using selinum, Sqlite, seaborn, matplotlib, pandas, PyQt5.</div>
     
 </details>
 
