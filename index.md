@@ -11,7 +11,7 @@ web scrapping from property finder EG and analysis desktop application.
 
     <div style="text-align: justify">main page</div>
     
-    <img src="https://github.com/Ahmed-Ashraf-Khalil/Property-Plus-Analyzer/assets/59618586/f34d71dd-53bf-4242-bd58-851d1a2883c1">
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/Property-Plus-Analyzer/assets/59618586/f34d71dd-53bf-4242-bd58-851d1a2883c1" style="border: 5px solid black">
 
     <div style="text-align: justify">report page</div>
     
