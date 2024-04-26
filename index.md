@@ -53,7 +53,7 @@ dash-Python Decision support application about Real-estate
 
 <details>
     
-    <div style="text-align: justify">volatility forecasting using the Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model from analysis and data preparation to modeling and optimization.</div>
+    <div style="text-align: justify">real state analysis web dashboard and hosting it publically and changing the link to a QR code using Plotly Express and Dash with python.</div>
     
 </details>
 
