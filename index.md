@@ -74,7 +74,7 @@ dash-Python Decision support application about Real-estate
 
     <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/35ccd3e1-efa7-440c-895f-dc4c71a10383" style="border: 5px solid black">
 
-    <img src=https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/1d4a542b-23b8-4bfc-90ef-10d912b0570f" style="border: 5px solid black">
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/1d4a542b-23b8-4bfc-90ef-10d912b0570f" style="border: 5px solid black">
 
     <div style="text-align: justify">Analyzing and predicting Customer churn data and visualization using pandas, seaborn, matplotlib, Sklearn, Logistic regression and XGboost with python.</div>
     
