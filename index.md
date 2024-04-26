@@ -53,31 +53,28 @@ dash-Python Decision support application about Real-estate
 
 <details>
     
-    <img src="https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/70d8012c-d7eb-4f10-8eef-fb5df54374e0" style="border: 5px solid black">
-    
-    <img src="https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/3e3f7101-114b-4491-99ad-ce51bc474fd3" style="border: 5px solid black">
-
-    <img src="https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/c99edc2e-29da-491d-9237-db1b1a1c20c7" style="border: 5px solid black">
-
-    <img src="https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/b03a1adf-569a-4526-be95-497910d05dee" style="border: 5px solid black">
-
     <div style="text-align: justify">volatility forecasting using the Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model from analysis and data preparation to modeling and optimization.</div>
     
 </details>
 
 ---
-[Dash Real estate web dashboard](https://github.com/Ahmed-Ashraf-Khalil/Data-Science-Projects/tree/master/Real-estate-web-dashboard)
-dash-Python Decision support application about Real-estate
+[customer churn analysis and prediction](https://github.com/Ahmed-Ashraf-Khalil/Data-Science-Projects/blob/master/customer%20churn%20analysis%20and%20prediction/code.ipynb)
 
-    <img src="https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/70d8012c-d7eb-4f10-8eef-fb5df54374e0" style="border: 5px solid black">
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/1ed14288-ec02-48d8-9c45-d82aa3e5e896" style="border: 5px solid black">
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/4ef7ae5d-ecce-4b15-bdf4-ea32b25ae3c0" style="border: 5px solid black">
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/1fa164e2-e3ae-42c2-b485-9c68433a94b1" style="border: 5px solid black">
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/70eb7f46-6f3f-490f-bda0-d4bc5094ee30" style="border: 5px solid black">
     
-    <img src="https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/3e3f7101-114b-4491-99ad-ce51bc474fd3" style="border: 5px solid black">
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/e22ac713-cdd1-4ff1-b343-a8625734cf59" style="border: 5px solid black">
 
-    <img src="https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/c99edc2e-29da-491d-9237-db1b1a1c20c7" style="border: 5px solid black">
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/35ccd3e1-efa7-440c-895f-dc4c71a10383" style="border: 5px solid black">
 
-    <img src="https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/b03a1adf-569a-4526-be95-497910d05dee" style="border: 5px solid black">
+    <img src=https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/1d4a542b-23b8-4bfc-90ef-10d912b0570f" style="border: 5px solid black">
 
-    <div style="text-align: justify">volatility forecasting using the Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model from analysis and data preparation to modeling and optimization.</div>
+    <div style="text-align: justify">Analyzing and predicting Customer churn data and visualization using pandas, seaborn, matplotlib, Sklearn, Logistic regression and XGboost with python.</div>
     
 </details>
 
@@ -87,5 +84,3 @@ dash-Python Decision support application about Real-estate
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
