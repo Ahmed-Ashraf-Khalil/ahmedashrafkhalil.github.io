@@ -83,6 +83,7 @@ dash-Python Decision support application about Real-estate
 ---
 
 [IOT attacks analysis and detection](https://github.com/Ahmed-Ashraf-Khalil/cyber_attacks)
+
 cyber attacks classification ready to be deployed on IOT environment
 
 <details>
@@ -99,6 +100,7 @@ cyber attacks classification ready to be deployed on IOT environment
 
 ---
 [Electronic lab (E-lab)](https://github.com/Ahmed-Ashraf-Khalil/E-lab)
+
 Artificial intelligence application for online disease detection
 
 
@@ -110,6 +112,28 @@ Artificial intelligence application for online disease detection
 
     <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/aa49f748-5288-4a03-b335-ae0829d83f2a" style="border: 5px solid black">
 
-    my graduation project (web, android and ios) for predicting (Brain tumor, skin cancer, diabetes, chest deseases) based on medical image scans such as Normal, MRI, Ultrasonic or numeric scans for diabetes
+    my graduation project (web, android and ios) for predicting (Brain tumor, skin cancer, diabetes, chest deseases) based on medical image scans such as Normal, MRI, Ultrasonic or numeric scans for diabetes.
+    
+</details>
+
+---
+
+[LDA algorithm for topic extraction and clustering](https://github.com/Ahmed-Ashraf-Khalil/LDA)
+
+topic extraction powered by NLP
+
+<details>
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/8fb1a843-54e2-4fe9-9e39-3e8fc33bd9bb" style="border: 5px solid black">
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/f7eb1366-0c5b-4d59-9be7-de8875c5a932" style="border: 5px solid black">
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/f7f6961b-ba76-4987-9b0e-a1897ac5a782" style="border: 5px solid black">
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/a984c8b6-79e5-4e57-85d8-577a04ead289" style="border: 5px solid black">
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/222f740e-4c06-4169-9a96-679395d04c69" style="border: 5px solid black">
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/4b2374e7-cbac-4a98-a047-f771c1946b3a" style="border: 5px solid black">
     
 </details>
