@@ -60,6 +60,8 @@ dash-Python Decision support application about Real-estate
 ---
 [customer churn analysis and prediction](https://github.com/Ahmed-Ashraf-Khalil/Data-Science-Projects/blob/master/customer%20churn%20analysis%20and%20prediction/code.ipynb)
 
+<details>
+    
     <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/1ed14288-ec02-48d8-9c45-d82aa3e5e896" style="border: 5px solid black">
 
     <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/4ef7ae5d-ecce-4b15-bdf4-ea32b25ae3c0" style="border: 5px solid black">
