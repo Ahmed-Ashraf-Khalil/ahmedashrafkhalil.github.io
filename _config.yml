@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://github.com/Ahmed-Ashraf-Khalil">View My Github Profile</a> 
   <br><br>
-  <a href="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/blob/master/pdf/Resume.pdf" download>Download my updated Resume</a>
+  <a href="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/blob/master/pdf/Resume.pdf" download="download">Download my updated Resume</a>
   <br><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
