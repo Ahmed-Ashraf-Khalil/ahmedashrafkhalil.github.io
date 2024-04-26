@@ -82,7 +82,33 @@ dash-Python Decision support application about Real-estate
 
 ---
 
+[IOT attacks analysis and detection](https://github.com/Ahmed-Ashraf-Khalil/cyber_attacks)
 
+<details>
 
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/85b89a8e-b621-4d4c-8e6f-8a573a05f301" style="border: 5px solid black">
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/a07fc7dd-9573-4aac-acf2-c3c21011d734" style="border: 5px solid black">
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/f20f4a70-dae0-422f-ad79-c80fcd471aef" style="border: 5px solid black">
+
+    with accuracy over 90% on the test dataset
+    
+</details>
 
 ---
+[Electronic lab (E-lab)](https://github.com/Ahmed-Ashraf-Khalil/E-lab)
+Artificial intelligence application for online disease detection
+
+
+<details>
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/c36233b9-f1e4-4d29-82be-658b5a07f37e" style="border: 5px solid black">
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/af574be4-788e-4900-8440-11e56b67ada3" style="border: 5px solid black">
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/aa49f748-5288-4a03-b335-ae0829d83f2a" style="border: 5px solid black">
+
+    my graduation project (web, android and ios) for predicting (Brain tumor, skin cancer, diabetes, chest deseases) based on medical image scans such as Normal, MRI, Ultrasonic or numeric scans for diabetes
+    
+</details>
