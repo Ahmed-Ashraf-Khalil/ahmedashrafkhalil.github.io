@@ -94,7 +94,8 @@ cyber attacks classification ready to be deployed on IOT environment
 
     <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/f20f4a70-dae0-422f-ad79-c80fcd471aef" style="border: 5px solid black">
 
-    with accuracy over 90% on the test dataset
+    <div style="text-align: justify">with accuracy over 90% on the test dataset.</div>
+    
     
 </details>
 
@@ -112,7 +113,8 @@ Artificial intelligence application for online disease detection
 
     <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/aa49f748-5288-4a03-b335-ae0829d83f2a" style="border: 5px solid black">
 
-    my graduation project (web, android and ios) for predicting (Brain tumor, skin cancer, diabetes, chest deseases) based on medical image scans such as Normal, MRI, Ultrasonic or numeric scans for diabetes.
+    <div style="text-align: justify">my graduation project (web, android and ios) for predicting (Brain tumor, skin cancer, diabetes, chest deseases) based on medical image scans such as Normal, MRI, Ultrasonic or numeric scans for diabetes.</div>
+    
     
 </details>
 
@@ -135,5 +137,22 @@ topic extraction powered by NLP
     <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/222f740e-4c06-4169-9a96-679395d04c69" style="border: 5px solid black">
 
     <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/4b2374e7-cbac-4a98-a047-f771c1946b3a" style="border: 5px solid black">
+    
+</details>
+
+---
+
+[Arabic dialect classification](https://github.com/Ahmed-Ashraf-Khalil/E-lab)
+
+Arabic dialect (twitter data) multiclass classification powered by NLP
+
+
+<details>
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/c7b06975-d731-4c30-823c-1e189130e315" style="border: 5px solid black">
+
+    <img src="https://github.com/Ahmed-Ashraf-Khalil/ahmedashrafkhalil.github.io/assets/59618586/c611ed7e-381a-4b9e-b86f-f665eb90b4b1" style="border: 5px solid black">
+
+    <div style="text-align: justify">Arabic dialect (twitter data) multiclass classification (case study) powered by NLP using arabert, NLTK, pandas, Sklearn and LIGHTGBM with accuracy over 70%</div>
     
 </details>
