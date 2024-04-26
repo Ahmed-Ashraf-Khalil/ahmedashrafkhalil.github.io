@@ -50,13 +50,13 @@ volatility forecasting GARCH model
 [Dash Real estate web dashboard](https://github.com/Ahmed-Ashraf-Khalil/Data-Science-Projects/tree/master/Real-estate-web-dashboard)
 dash-Python Decision support application about Real-estate
 
-    <img src="https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/70d8012c-d7eb-4f10-8eef-fb5df54374e0" style="border: 5px solid black">
+    https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/70d8012c-d7eb-4f10-8eef-fb5df54374e0
     
-    <img src="https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/3e3f7101-114b-4491-99ad-ce51bc474fd3" style="border: 5px solid black">
+    https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/3e3f7101-114b-4491-99ad-ce51bc474fd3
 
-    <img src="https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/c99edc2e-29da-491d-9237-db1b1a1c20c7" style="border: 5px solid black">
+    https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/c99edc2e-29da-491d-9237-db1b1a1c20c7
 
-    <img src="https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/b03a1adf-569a-4526-be95-497910d05dee" style="border: 5px solid black">
+    https://github.com/Ahmed-Ashraf-Khalil/Dash-Real-estate-application/assets/59618586/b03a1adf-569a-4526-be95-497910d05dee
 
     <div style="text-align: justify">volatility forecasting using the Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model from analysis and data preparation to modeling and optimization.</div>
     
