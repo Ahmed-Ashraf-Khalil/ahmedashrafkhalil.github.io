@@ -4,7 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Data Scientist Passionate about Data and all its applications.
   <br><br>
   <a href="https://www.linkedin.com/in/ahmed-ashraf-khalil">View My LinkedIn Profile</a> 
-  
+  <br><br>
+  <a href="https://github.com/Ahmed-Ashraf-Khalil">View My Github Profile</a> 
+  <br><br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
